@@ -19,6 +19,7 @@ let arrMax=(arr) => {
   });
   return max;
 };
+
 //Req. 3D
 sumEvens = (array) => {
   var sum = 0;
