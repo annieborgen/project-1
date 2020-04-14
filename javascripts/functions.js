@@ -8,6 +8,7 @@ let arrAvg = (arr) => {
   }
   return sum/arr.length;
 };
+
 //Req. 3c
 let arrMax=(arr) => {
   var max =arr[0];
