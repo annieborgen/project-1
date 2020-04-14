@@ -3,4 +3,10 @@
 ## Learning Objectives
 
 - Basic Unix Shell commands
-- [add the rest here..]
+- Install and Configure Git using the Unix Shell
+- Basic Git commands (add, commit, push, clone.)
+- Github overview
+- Markdown language for README files
+- JavaScript ES6+ features
+- I relearned lots of Javascript commands.
+<img src="images/octocat.jpg" width="100">
