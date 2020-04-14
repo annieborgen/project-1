@@ -31,6 +31,7 @@ sumEvens = (array) => {
     return sum;
 };
 
+//extra credit
 function alphaPosition(ch){
   return charCodeAt(index);
 }
