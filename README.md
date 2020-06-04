@@ -9,4 +9,5 @@
 - Markdown language for README files
 - JavaScript ES6+ features
 - I relearned lots of Javascript commands.
-<img src="images/octocat.jpg" width="100">
+![](images/Octocat.jpg)
+[281 Project Website](https://pages.uoregon.edu/aborgen/281/)
